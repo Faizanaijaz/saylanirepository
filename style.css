@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgb(8, 0, 0);
+}
+table{
+    background-color: rgb(29, 30, 32); 
+}
+*{
+    color: #fff;
+}
+p{
+    color: rgb(108, 109, 111);
+}
+* span  {
+    color: rgb(104, 152,129);
+}
+i{
+    color: rgb(104, 152,129);
+    font-size:  x-large;
+}
+hr{
+   color: rgb(37, 38, 40);
+}
+.space{
+    width: 20px;
+    height: 20px;
+}
+
